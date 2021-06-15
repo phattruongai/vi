@@ -1,0 +1,67 @@
+<nav class="navbar is-primary {% if site.fixed_navbar %} is-fixed-{{ site.fixed_navbar }} {% endif %}" x-data="{ openNav: false }">
+    <div class="container">
+        <div class="navbar-brand">
+            <!-- <a href="{{ site.baseurl }}/" class="navbar-item">
+                <span class="icon is-small"><i class="fas {{ tab.icon }}" aria-hidden="true"></i></span>
+            </a> -->
+            <a class="navbar-item" href="{{ site.baseurl }}/">
+                <img {% if site.favicon %} src="{{ site.favicon | prepend: site.baseurl }}" {% else %} src="{{ site.baseurl }}/favicon.png" {% endif %}>
+              </a>
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu" :class="{ 'is-active': openNav }" x-on:click="openNav = !openNav">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
+            <div class="navbar-start">
+                <a href="{{ site.baseurl }}/" class="navbar-item {% if page.url == "/" %}is-active{% endif %}">{{site.home}}</a>
+                {% if site.data.navigation %}
+                {% for item in site.data.navigation %}
+                    {% if item.dropdown %}
+                    <div class="navbar-item has-dropdown is-hoverable {% if site.fixed_navbar == 'bottom' %} has-dropdown-up {% endif %}">
+                        <a href="{{ item.link | relative_url }}" class="navbar-link {% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
+                        <div class="navbar-dropdown">
+                            {% for subitem in item.dropdown %}
+                            <a href="{{ subitem.link | relative_url }}" class="navbar-item {% if subitem.link == page.url %}is-active{% endif %}">{{ subitem.name }}</a>
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% else %}
+                    <a href="{{ item.link | relative_url }}" class="navbar-item {% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
+                    {% endif %}
+                {% endfor %}
+                {% endif %}
+            </div>
+
+            <div class="navbar-end">
+                <div class="navbar-item">
+                  <div class="field is-grouped">
+                    <p class="control">
+                        <a class="button is-primary" href="https://github.com/phattruongai">
+                          <span class="icon">
+                            <i class="fab fa-lg fa-github"></i>
+                          </span>
+                        </a>
+                      </p>
+                    <p class="control">
+                        <a class="button is-primary" href="https://linkedin.com/in/phattruong97">
+                          <span class="icon">
+                            <i class="fab fa-lg fa-linkedin-in"></i>
+                          </span>
+                        </a>
+                      </p>
+                    <p class="control">
+                        <a class="button is-primary" href="https://scholar.google.com/citations?user=N3fuK8UAAAAJ&hl=vi">
+                          <span class="icon">
+                            <i class="fas fa-lg fa-graduation-cap"></i>
+                          </span>
+                        </a>
+                      </p>
+                  </div>
+                </div>
+              </div>
+
+        </div>
+    </div>
+</nav>

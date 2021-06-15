@@ -1,0 +1,44 @@
+- tier_name: CONTACT ME
+  size: large
+  description: |-
+    phattruong@foreseeable.ai
+  sponsors:
+    - name: Github
+      profile: https://github.com/phattruongai
+    - name: Linkedin
+      profile: https://linkedin.com/in/phattruong97
+    - name: Google Scholar
+      profile: https://scholar.google.com/citations?user=N3fuK8UAAAAJ&hl=vi
+# - tier_name: Gold Sponsors
+#   description: |-
+#     This is the description for the Gold Tier
+#   sponsors:
+#     - name: Dave McDave
+#       profile: https://github.com/
+#     - name: Sarah Lee-Cheesecake
+#       profile: https://github.com/
+#     - name: John Smith
+#       profile: https://github.com/
+# - tier_name: Standard Sponsors
+#   size: small
+#   description: |-
+#     This is the description for the Standard Tier.
+
+#     It has the size set to 'small'.
+
+#     The profile is not required so if it's not set the link will not appear.
+#   sponsors:
+#     - name: Dave McDave
+#       profile: https://github.com/
+#     - name: Sarah Lee-Cheesecake
+#       profile: https://github.com/
+#     - name: John Smith
+#       profile: https://github.com/
+#     - name: Jane Smith
+#       profile: https://github.com
+#     - name: John Doe
+#       profile: https://github.com/
+#     - name: Jane Doe
+#       profile: https://github.com/
+#     - name: John Jones
+#     - name: Jane Jones
