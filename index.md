@@ -7,7 +7,7 @@ hero_image: /img/hero-wallpaper1.jpg
 hero_darken: true
 hero_height: is-large
 hero_link: /about/
-hero_link_text: About me
+hero_link_text: Về mình
 hero_icon_scroll: true
 comments: true
 # bio: true
