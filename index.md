@@ -1,5 +1,5 @@
 ---
-title: TRUONG LOC PHAT
+title: TRƯƠNG LỘC PHÁT
 subtitle: |-
         Machine Learning Engineer / Artificial Intelligence Developer
 layout: page
@@ -168,7 +168,7 @@ show_sidebar: true
   <article class="message is-success">
     <div class="message-body">
       <div class="block">
-        <p>Đây là sự kết hợp của <b>Theo dấu nhiều người qua nhiều camera</b> và <b>Phát hiện phạm tội đang xảy ra</b>, sau khi phát hiện thủ phạm, hệ thống sẽ ngay lập tức theo dõi đối tượng qua nhiều camera, đặc biệt các camera không cần phải có góc nhìn giao nhau</p>
+        <p>Đây là sự kết hợp của <b>Theo dấu nhiều người qua nhiều camera</b> và <b>Phát hiện phạm tội đang xảy ra</b>, sau khi phát hiện thủ phạm, hệ thống sẽ ngay lập tức theo dấu đối tượng qua nhiều camera, đặc biệt các camera không cần phải có góc nhìn giao nhau</p>
       </div>
     </div>
   </article>
