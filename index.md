@@ -33,7 +33,7 @@ show_sidebar: true
     <span class="icon is-small has-text-success">
       <i class="fas fa-check-circle"></i>
     </span>
-    <strong>OCR</strong>
+    <strong>Nhận diện kí tự quang học</strong>
    </div>
   </div>
 
@@ -42,8 +42,8 @@ show_sidebar: true
   <article class="message is-success">
     <div class="message-body">
       <div class="block">
-        <p>Training models which scan images and do the optical character recognition to extract texts from web page, scanned or handwriting document</p>
-        <p>See my latest report dashboard <a href="https://wandb.ai/phattruong2709/Paddle-OCR/runs/117zodm2/overview" title="dashboard">here</a></p>
+        <p>Huấn luyện mô hình nhận diện kí tự quang học để trích xuất chữ từ website, tài liệu scan hoặc tài liệu viết tay</p>
+        <p>Xem thêm chi tiết của việc huấn luyện <a href="https://wandb.ai/phattruong2709/Paddle-OCR/runs/117zodm2/overview" title="dashboard">tại đây</a></p>
       </div>
     </div>
   </article>
@@ -88,7 +88,7 @@ show_sidebar: true
   <article class="message is-success">
     <div class="message-body">
       <div class="block">
-        <p>Implement an algorithm to track multi people in multi camera views based on <b>Person Re-Identification model</b></p>
+        <p>Thực hiện thuật toán track nhiều người thông qua tầm nhìn từ nhiều camera dựa vào <b>Mô hình tái xác minh người</b></p>
       </div>
     </div>
   </article>
@@ -119,7 +119,7 @@ show_sidebar: true
     <span class="icon is-small has-text-success">
       <i class="fas fa-check-circle"></i>
     </span>
-    <b>Crime in progress detection</b>
+    <b>Phát hiện phạm tội đang xảy ra</b>
    </div>
   </div>
 
@@ -128,7 +128,7 @@ show_sidebar: true
   <article class="message is-success">
     <div class="message-body">
       <div class="block">
-        <p>Implement an algorithm combining many models which detect many criminal factors to determine whether a crime is in progress and also detect the perpetrator who involve to the criminal</p>
+        <p>Thực hiện thuật toán phát hiện nhiều yếu tố tội phạm để xác định rằng liệu đang có một quá trình phạm pháp xảy ra hay không, tiếp tục xác định thủ phạm nếu được</p>
       </div>
     </div>
   </article>
@@ -159,7 +159,7 @@ show_sidebar: true
     <span class="icon is-small has-text-success">
       <i class="fas fa-check-circle"></i>
     </span>
-    <b>Perpetrator detection and tracking through many cameras</b>
+    <b>Phát hiện thủ phạm và theo dõi qua nhiều camera</b>
    </div>
   </div>
 
@@ -168,7 +168,7 @@ show_sidebar: true
   <article class="message is-success">
     <div class="message-body">
       <div class="block">
-        <p>The combination of <b>Multi people multi camera tracking</b> and <b>Crime in progress detection</b>, after determine the perpetrator, the system will track him/her through many cameras, especially these camera do not need to overlap each other</p>
+        <p>Đây là sự kết hợp của <b>Theo dõi nhiều người qua nhiều camera</b> và <b>Phát hiện phạm tội đang xảy ra</b>, sau khi phát hiện thủ phạm, hệ thống sẽ ngay lập tức theo dõi đối tượng qua nhiều camera, đặc biệt các camera không cần phải có góc nhìn giao nhau</p>
       </div>
     </div>
   </article>
@@ -193,7 +193,7 @@ show_sidebar: true
     <span class="icon is-small has-text-success">
       <i class="fas fa-check-circle"></i>
     </span>
-    <b>Mask detection</b>
+    <b>Phát hiện khẩu trang</b>
    </div>
   </div>
 
@@ -202,7 +202,7 @@ show_sidebar: true
   <article class="message is-success">
     <div class="message-body">
       <div class="block">
-        <p>Detect whether a person wearing mask or not and raise an alert, help warning people automatically in the spreading of the COVID-19 pandemic</p>
+        <p>Phát hiện rằng một người có đang đeo khẩu trang hay không, giúp cảnh báo mọi người một cách tự động trong tình hình dịch Covid 19 đang lan rộng</p>
       </div>
     </div>
   </article>
@@ -233,7 +233,7 @@ show_sidebar: true
     <span class="icon is-small has-text-success">
       <i class="fas fa-check-circle"></i>
     </span>
-    <b>Contact tracing using camera</b>
+    <b>Truy vết sự tiếp xúc thông qua camera</b>
    </div>
   </div>
 
@@ -242,7 +242,7 @@ show_sidebar: true
   <article class="message is-success">
     <div class="message-body">
       <div class="block">
-        <p>Detect whether a person wearing mask or not and measure the distance from each other for contact tracing later</p>
+        <p>Phát hiện người có đeo khẩu trang hay không đồng thời đo khoảng cách giữa mọi người với nhau, góp phần truy vết dễ dàng sau này</p>
       </div>
     </div>
   </article>
