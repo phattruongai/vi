@@ -1,6 +1,6 @@
 # Site Settings
 lang: en
-title: 
+title: Home
 tagline: Phat Truong Machine Learning Specialist
 email: phattruong@devpanel.com
 description: >
@@ -13,7 +13,7 @@ gh_sponsor:
 hide_share_buttons: false
 theme_color: '#333333'
 fixed_navbar: top
-home: Home
+home: Trang chủ
 
 # theme: bulma-clean-theme 
 remote_theme: chrisrhymes

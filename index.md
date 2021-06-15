@@ -79,7 +79,7 @@ show_sidebar: true
     <span class="icon is-small has-text-success">
       <i class="fas fa-check-circle"></i>
     </span>
-    <b>Multi people multi camera tracking</b>
+    <b>Theo dấu nhiều người qua nhiều camera</b>
    </div>
   </div>
 
@@ -88,7 +88,7 @@ show_sidebar: true
   <article class="message is-success">
     <div class="message-body">
       <div class="block">
-        <p>Thực hiện thuật toán track nhiều người thông qua tầm nhìn từ nhiều camera dựa vào <b>Mô hình tái xác minh người</b></p>
+        <p>Thực hiện thuật toán theo dấu nhiều người thông qua tầm nhìn từ nhiều camera dựa vào <b>Mô hình tái xác minh người</b></p>
       </div>
     </div>
   </article>
@@ -168,7 +168,7 @@ show_sidebar: true
   <article class="message is-success">
     <div class="message-body">
       <div class="block">
-        <p>Đây là sự kết hợp của <b>Theo dõi nhiều người qua nhiều camera</b> và <b>Phát hiện phạm tội đang xảy ra</b>, sau khi phát hiện thủ phạm, hệ thống sẽ ngay lập tức theo dõi đối tượng qua nhiều camera, đặc biệt các camera không cần phải có góc nhìn giao nhau</p>
+        <p>Đây là sự kết hợp của <b>Theo dấu nhiều người qua nhiều camera</b> và <b>Phát hiện phạm tội đang xảy ra</b>, sau khi phát hiện thủ phạm, hệ thống sẽ ngay lập tức theo dõi đối tượng qua nhiều camera, đặc biệt các camera không cần phải có góc nhìn giao nhau</p>
       </div>
     </div>
   </article>
