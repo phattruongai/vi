@@ -60,6 +60,15 @@
                       </p>
                   </div>
                 </div>
+                <div class="navbar-item has-dropdown is-hoverable {% if site.fixed_navbar == 'bottom' %} has-dropdown-up {% endif %}">
+                  <a class="navbar-link">
+                    lang
+                  </a>
+                  <div class="navbar-dropdown">
+                      <a href="{{ 'https://phattruongai.github.io' | append: page.url }}" class="navbar-item">English</a>
+                      <a href="{{ page.url }}" class="navbar-item is-active">Vietnamese</a>
+                  </div>
+                </div>
               </div>
 
         </div>
