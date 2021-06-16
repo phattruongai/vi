@@ -91,4 +91,4 @@ Còn rất nhiều kiểu câu hỏi khác, như là kết hợp service như th
 
 Và đây là kết quả của mình
 
-![alt text](img/aws-score.png)
+![alt text](/img/aws-score.png)
