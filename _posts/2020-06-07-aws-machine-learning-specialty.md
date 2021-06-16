@@ -5,7 +5,7 @@ description: Amazon Web Services Machine Learning - Specialty Experience
 summary: |-
     Phí: 300$
 
-    The total time of the test is 3,5 hours, answer all 65 questions at the first time, flag unsure answers, then return to check carefully all reliable questions (to make sure that you do not misread or wrongly choose), then find the flag answer to carefully read and infer again.
+    Chiến thuật làm bài: thời gian là 3 tiếng 30 phút, giải một lượt hết 65 câu, flag những câu không chắc chắn, sau đó quay lại check kĩ lại những câu chắc chắn (để chắc chắn rằng không mất điểm những câu này), sau đó mới tìm những câu để flag để đọc lại lần nữa và suy luận kĩ hơn.
 
 date: 2020-06-07 09:00:07
 hero_image: 
@@ -89,6 +89,6 @@ Còn rất nhiều kiểu câu hỏi khác, như là kết hợp service như th
 * Khoảng 2 ngày sau thì kết quả điểm sẽ trả về ở mail và trang đăng kí thi.
 
 
-Và đây là kết quả của mình hihi :heart_eyes:
+Và đây là kết quả của mình
 
 ![alt text](img/aws-score.png)
