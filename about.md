@@ -1,13 +1,13 @@
 ---
-title: ABOUT
+title: VỀ MÌNH
 subtitle: |- 
         - 
 
-        Hi, My name is Truong Loc Phat.
+        Xin chào, tên mình là Trương Lộc Phát
 
-        I'm a Machine Learning engineer, emphasis on Deep Learning in Computer Vision based in HCM, Viet Nam.
+        Hiện mình là một Machine Learning engineer, cụ thể tập trung vào Deep Learning trong Computer Vision tại TPHCM, Việt Nam.
         
-        Love Math and Programming.
+        Mình yêu toán và lập trình.
         
 layout: page
 hero_image: /img/hero-wallpaper1.jpg
@@ -22,20 +22,20 @@ show_sidebar: false
 <!-- # Careers: -->
 <div class="buttons">
    <button class="button is-primary is-rounded is-medium is-hovered is-static">
-      CAREERS
+      NGHỀ NGHIỆP
    </button>
 </div>
 
 #### . ![career](/img/career.png)      [2019-Now] Machine Learning Specialist - SceneSeer/Devpanel
 
-* MLOps with AWS, Docker
-* Develop various algorithms: Object detection, Image classification, Keypoints estimation, Depth estimation, OCR, ChatBot, etc.
+* MLOps với AWS, Docker
+* Phát triển nhiều loại thuật toán: Object detection, Image classification, Keypoints estimation, Depth estimation, OCR, ChatBot, ...
 
 #### . ![career](/img/career.png)      [2018-2020] Student Researcher - Ho Chi Minh University of Technology and Education, Viet Nam
 
-* Research Deep Learning, Computer Vision
-* Research Embedded System, Robotic
-* Writing academic paper
+* Nghiên cứu Deep Learning, Computer Vision
+* Nghiên cứu Embedded System, Robotic
+* Viết academic paper
 
 ---
 
@@ -43,7 +43,7 @@ show_sidebar: false
 
 <div class="buttons">
    <button class="button is-primary is-rounded is-medium is-hovered is-static">
-      EDUCATION
+      GIÁO DỤC
    </button>
 </div>
 
@@ -55,7 +55,7 @@ show_sidebar: false
 <!-- # Certifications: -->
 <div class="buttons">
    <button class="button is-primary is-rounded is-medium is-hovered is-static">
-      CERTIFICATION
+      CHỨNG CHỈ
    </button>
 </div>
 
@@ -68,7 +68,7 @@ show_sidebar: false
 <!-- # Publications: -->
 <div class="buttons">
    <button class="button is-primary is-rounded is-medium is-hovered is-static">
-      PUBLICATION
+      NGHIÊN CỨU
    </button>
 </div>
 
@@ -80,7 +80,7 @@ show_sidebar: false
 <!-- # Tech skills: -->
 <div class="buttons">
    <button class="button is-primary is-rounded is-medium is-hovered is-static">
-      TECH SKILL
+      KỸ NĂNG 
    </button>
 </div>
 
