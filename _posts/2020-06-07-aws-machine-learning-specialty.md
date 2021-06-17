@@ -1,20 +1,19 @@
 ---
 layout: post
-title: Kinh nghiệm thi Amazon Web Services Machine Learning - Specialty
-description: Amazon Web Services Machine Learning - Specialty Experience
-summary: |-
-    Phí: 300$
-
-    Chiến thuật làm bài: thời gian là 3 tiếng 30 phút, giải một lượt hết 65 câu, flag những câu không chắc chắn, sau đó quay lại check kĩ lại những câu chắc chắn (để chắc chắn rằng không mất điểm những câu này), sau đó mới tìm những câu để flag để đọc lại lần nữa và suy luận kĩ hơn.
-
 date: 2020-06-07 09:00:07
-image: /img/AWS-cert-hero.png
 tags: AWS certification sharing
 comments: true
 toc: true
 #toc_title: Custom Title
 menubar: 
 show_sidebar: true
+title: Kinh nghiệm thi Amazon Web Services Machine Learning - Specialty
+description: Amazon Web Services Machine Learning - Specialty Experience
+summary: |-
+    Phí: 300$
+    Chiến thuật làm bài: thời gian là 3 tiếng 30 phút, giải một lượt hết 65 câu, flag những câu không chắc chắn, sau đó quay lại check kĩ lại những câu chắc chắn (để chắc chắn rằng không mất điểm những câu này), sau đó mới tìm những câu để flag để đọc lại lần nữa và suy luận kĩ hơn ...
+
+image: /img/AWS-cert-hero.png
 ---
 
 ---
