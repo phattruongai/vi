@@ -16,5 +16,8 @@
       {%- include google-analytics.html -%}
     {%- endif -%}
     {%- include head-scripts.html -%}
+    {% if site.tags != "" %}
+      {% include collecttags.html %}
+    {% endif %}
 </head>
 
