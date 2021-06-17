@@ -1,16 +1,24 @@
 <div class="card">
     {% if post.image %}
     <div class="card-image">
-        <figure class="image is-2by1">
+        <figure class="image is-4by1">
             <img src="{{ post.image }}" alt="{{ post.title }}">
         </figure>
+    </div>
+    <div class="card-content">
+        <div class="content">
+            <a class="title is-5" href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a>
+        </div>
+        <!-- <div class="has-text-centered">
+            <a href="{{ site.baseurl }}{{ post.url }}" class="button is-primary is-small">Xem thêm</a>
+        </div> -->
     </div>
     {% else %}
     <header class="card-header">
         <a class="card-header-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title}}</a>
     </header>
     {% endif %}
-    <div class="card-content">
+    <!-- <div class="card-content">
         <div class="content">
             <div class="block">
             {% if post.image %}
@@ -28,7 +36,7 @@
         <div class="has-text-centered">
             <a href="{{ site.baseurl }}{{ post.url }}" class="button is-primary">Xem thêm</a>
         </div>
-    </div>
+    </div> -->
     <footer class="card-footer">
         <p class="card-footer-item">Published: {{ post.date | date: "%b %-d, %Y" }}</p>
     </footer>

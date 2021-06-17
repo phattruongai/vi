@@ -6,7 +6,7 @@
 {% if page.show_sidebar and has_left_sidebar  %}
 {% assign content_width = 'is-4' %}
 {% elsif page.show_sidebar or has_left_sidebar %}
-{% assign content_width = 'is-8' %}
+{% assign content_width = 'is-9' %}
 {% else %}
 {% assign content_width = 'is-12' %}
 {% endif %}
@@ -42,7 +42,7 @@
                     {{ content }}
                 </div>
                 {% if site.posts and page.show_sidebar %}
-                <div class="column is-4-desktop is-12-tablet">
+                <div class="column is-3-desktop is-12-tablet">
                     {% include latest-posts.html %}
                 </div>
                 {% endif %}

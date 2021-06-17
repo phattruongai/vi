@@ -7,7 +7,7 @@ subtitle: |-
 
         Hiện mình là một Machine Learning engineer, cụ thể tập trung vào Deep Learning trong Computer Vision tại TPHCM, Việt Nam.
         
-        Mình yêu toán và lập trình.
+        Mình thích toán và lập trình.
         
 layout: page
 hero_image: /img/hero-wallpaper1.jpg
