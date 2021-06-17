@@ -3,11 +3,15 @@ title: VỀ MÌNH
 subtitle: |- 
         - 
 
-        Xin chào, tên mình là Trương Lộc Phát
+        Xin chào, mình là Trương Lộc Phát và đây là trang web cá nhân của mình 
 
         Hiện mình là một Machine Learning engineer, cụ thể tập trung vào Deep Learning trong Computer Vision tại TPHCM, Việt Nam.
         
-        Mình thích toán và lập trình.
+        Mình thích toán, lập trình và rất hưởng thụ việc học về chúng
+
+        Trong những bài viết của mình sẽ rất có thể có lỗi xảy ra, thoải mái góp ý cho mình nếu các bạn phát hiện nhé
+
+        Questions are welcome!
         
 layout: page
 hero_image: /img/hero-wallpaper1.jpg
