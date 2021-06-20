@@ -4,8 +4,6 @@ date: 2020-06-07 09:00:07
 tags: AWS certification sharing
 comments: true
 toc: true
-#toc_title: Custom Title
-menubar: 
 show_sidebar: true
 title: Kinh nghiệm thi Amazon Web Services Machine Learning - Specialty
 description: Amazon Web Services Machine Learning - Specialty Experience
