@@ -2,6 +2,7 @@
 layout: post
 date: 2020-06-07 09:00:07
 tags: AWS certification sharing
+hero_height: is-small
 comments: true
 toc: true
 show_sidebar: true
